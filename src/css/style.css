@@ -1,0 +1,54 @@
+:root {
+    --h1-font: "Georgia", "Times New Roman", Times, serif;
+    --site-font: "Arial", helvetica, sans-serif
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 25px;
+}
+
+header,
+main {
+    width: 500px;
+    margin-bottom: 50px;
+}
+
+.header--h1-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     height: 80px;
+    background-color: lightgray;
+}
+
+h1 {
+    font-family: var(--h1-font);
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+h2,
+p,
+span {
+    font-family: var(--site-font);
+}
+
+span {
+    
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+@media screen and (min-width: 700px) {
+    
+}

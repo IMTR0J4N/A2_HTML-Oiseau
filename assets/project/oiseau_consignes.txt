@@ -1,0 +1,15 @@
+1 création de la page (modele1.jpg)
+
+- créer un site : "oiseau"
+- créer un fichier "index.html"
+- créer les descritpion css dans un fichier "styles.css"
+- à partir du fichier "page.jpg" créer la page html
+- le site fait "500px" de large, il est entouré d'un filet de 1px
+- la police de caractère pour tout le site est : "Arial, Helvetica, sans-serif"
+- la police de caractère pour le titre du site est : "Georgia, "Times New Roman", Times, serif"
+- chaque description d'oiseau (titre, texte et image) sera idéalement contenu dans un élément div
+
+2 - Ajout d'un menu (modele2.jpg)
+
+- ajouter à la page une liste de lien (menu) permettant d'accéder aux article
+- ajouter dans chaque article un lien vers le haut de la page
